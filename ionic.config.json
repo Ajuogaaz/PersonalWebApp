@@ -1,0 +1,7 @@
+{
+  "name": "PersonalWebApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

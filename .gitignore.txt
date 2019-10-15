@@ -1,0 +1,12 @@
+angular.json
+browserslist
+config
+ionic.config.json
+karma.config
+package.json
+package-lock.json
+tsconfig.app.json
+tsconfig.json
+tsconfig.json
+tsconfig.sprc.json
+tslint.json
